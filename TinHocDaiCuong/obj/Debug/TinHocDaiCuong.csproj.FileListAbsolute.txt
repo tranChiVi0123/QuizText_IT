@@ -1,0 +1,439 @@
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csprojAssemblyReference.cache
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.LogIn.resources
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.MainForm.resources
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.Properties.Resources.resources
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.GenerateResource.cache
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.CoreCompileInputs.cache
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.exe.config
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.exe
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.pdb
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.exe
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.pdb
+C:\Users\Anh Thu Nguyen\source\repos\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.Exam.resources
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.exe.config
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.exe
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.pdb
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csprojAssemblyReference.cache
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.Exam.resources
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.LogIn.resources
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.MainForm.resources
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.Properties.Resources.resources
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.GenerateResource.cache
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.CoreCompileInputs.cache
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.exe
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.pdb
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.CopyComplete
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.ResolveComReference.cache
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.Form_EXCEL.resources
+C:\Users\HuanVo\Desktop\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.exe.licenses
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.exe.config
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.exe
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.pdb
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.Exam.resources
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.Form_EXCEL.resources
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.LogIn.resources
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.MainForm.resources
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.Properties.Resources.resources
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.exe.licenses
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.CopyComplete
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.exe
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.pdb
+C:\Users\DELL\Downloads\Thi_THDC\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.test.resources
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.exe.config
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.exe
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.pdb
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.Exam.resources
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.Form_EXCEL.resources
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.LogIn.resources
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.MainForm.resources
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.test.resources
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.Properties.Resources.resources
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.exe.licenses
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.CopyComplete
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.exe
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.pdb
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.Add.resources
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Pdf.v18.1.Drawing.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraPdfViewer.v18.1.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Pdf.v18.1.Drawing.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraPdfViewer.v18.1.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraPdfViewer.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraPdfViewer.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraPdfViewer.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraPdfViewer.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.CodeParser.v18.1.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.DataAccess.v18.1.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Xpo.v18.1.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.DataAccess.v18.1.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Xpo.v18.1.xml
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\DELL\Desktop\TinHocDaiCuong\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.exe.config
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.exe
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\TinHocDaiCuong.pdb
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.CodeParser.v18.1.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.DataAccess.v18.1.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Pdf.v18.1.Drawing.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Xpo.v18.1.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraPdfViewer.v18.1.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.DataAccess.v18.1.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Pdf.v18.1.Drawing.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.Xpo.v18.1.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraPdfViewer.v18.1.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraPdfViewer.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraPdfViewer.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraPdfViewer.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraPdfViewer.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.ResolveComReference.cache
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.Add.resources
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.Exam.resources
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.Form_EXCEL.resources
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.LogIn.resources
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.MainForm.resources
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.GUI.test.resources
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.exe.licenses
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.exe
+C:\Users\DELL\OneDrive\Máy tính\TinHocDaiCuong\TinHocDaiCuong\obj\Debug\TinHocDaiCuong.pdb
